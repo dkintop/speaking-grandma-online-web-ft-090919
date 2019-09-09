@@ -1,6 +1,6 @@
- def speak_to_grandma
-   
- end
+def speak_to_grandma(said)
+  if said == "I LOVE YOU GRANDMA!"
+    puts "I LOVE YOU TOO PUMKIN!"
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
